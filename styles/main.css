@@ -1,6 +1,8 @@
 h1{
     color: blueviolet;
-    background-color: aqua;
+    border-style: solid;
+    border-color:black;
+    text-align: center
 }
 p{
     color: fuchsia;
